@@ -35,3 +35,10 @@ body {
 .phone img {
   height: 50rem;
 }
+
+.login-continue {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
