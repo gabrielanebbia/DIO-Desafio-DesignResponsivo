@@ -125,9 +125,9 @@ body {
 }
 
 .icon-store:nth-child(1) {
-  background-image: url('./img/apple-button.png');
+  background-image: url('./images/apple-button.png');
 }
 
 .icon-store:nth-child(2) {
-  background-image: url('./img/googleplay-button.png');
+  background-image: url('./images/googleplay-button.png');
 }
