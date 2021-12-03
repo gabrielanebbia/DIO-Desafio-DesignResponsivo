@@ -126,3 +126,31 @@ body {
 .icon-store:nth-child(2) {
   background-image: url('./images/googleplay-button.png');
 }
+
+@media (max-width: 1024px) {
+  .instagram-wrapper {
+      width: 90%;
+  }
+}
+
+@media (max-width: 650px) {
+  body {
+    background-color: #ffffff;
+  }
+
+  .instagram-wrapper {
+    width: 90%;
+  }
+
+  .phone {
+    display: none;
+  }
+
+  .login-continue {
+    width: 100%;
+  }
+  
+  .containers-group {
+    border: 1px solid transparent;
+  }
+}
